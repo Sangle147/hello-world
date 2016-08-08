@@ -1,2 +1,5 @@
 # hello-world
-Just a description
+
+Hi guys!
+
+Sang here, I like Node.js.
